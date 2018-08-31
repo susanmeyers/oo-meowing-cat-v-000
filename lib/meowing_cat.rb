@@ -7,7 +7,6 @@ class Cat
 
   maru.meow
   puts "meow"
-  Cat
 
 end
 ## code your solution here.
