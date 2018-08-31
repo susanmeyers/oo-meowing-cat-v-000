@@ -7,6 +7,7 @@ class Cat
 
   maru.meow
   puts "meow"
-  maru
+  Cat
 
-end## code your solution here.
+end
+## code your solution here.
