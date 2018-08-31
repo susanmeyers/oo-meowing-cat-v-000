@@ -1,6 +1,12 @@
 class Cat
 
-  attr_accessor :name
+  attr_accessor :cats_name
+
+def 
+   
+    
+       
+  
 
 
 
