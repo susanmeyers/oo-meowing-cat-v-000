@@ -8,7 +8,7 @@ def meowing_cat(cat)
 
   maru = Cat.new
   maru.name = "Maru"
-  maru.meow
+  maru.meow = "Maru"
 
 end
 
