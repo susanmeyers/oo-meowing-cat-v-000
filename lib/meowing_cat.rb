@@ -2,7 +2,7 @@ class Cat
 
   attr_accessor :name
 
-  def meow(cat_name)
+  def meow
     puts "meow"
 
   end
