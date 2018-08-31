@@ -1,14 +1,9 @@
 class Cat
 
-  attr_accessor :name 
+  attr_accessor :name
 
-  maru = Cat.new
-  maru.name
-
-  maru.meow do
+  def meow(cat_name)
     puts "meow"
-  end
-
 
 end
 
